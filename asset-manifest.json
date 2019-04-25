@@ -1,0 +1,13 @@
+{
+  "main.css": "/movieer/static/css/main.48be8b22.chunk.css",
+  "main.js": "/movieer/static/js/main.a5e6e285.chunk.js",
+  "main.js.map": "/movieer/static/js/main.a5e6e285.chunk.js.map",
+  "runtime~main.js": "/movieer/static/js/runtime~main.c087678c.js",
+  "runtime~main.js.map": "/movieer/static/js/runtime~main.c087678c.js.map",
+  "static/js/2.61014849.chunk.js": "/movieer/static/js/2.61014849.chunk.js",
+  "static/js/2.61014849.chunk.js.map": "/movieer/static/js/2.61014849.chunk.js.map",
+  "index.html": "/movieer/index.html",
+  "precache-manifest.b23cefe0d8d8d020a80bbbbfa2b7641e.js": "/movieer/precache-manifest.b23cefe0d8d8d020a80bbbbfa2b7641e.js",
+  "service-worker.js": "/movieer/service-worker.js",
+  "static/css/main.48be8b22.chunk.css.map": "/movieer/static/css/main.48be8b22.chunk.css.map"
+}
